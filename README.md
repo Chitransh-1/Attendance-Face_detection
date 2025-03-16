@@ -1,5 +1,6 @@
 <h2 align="left">To create an attendance system using face recognition, you will need to follow these steps:</h2>
 <br>
+
 1. Set up the environment:
     * Install necessary libraries (e.g., OpenCV, dlib, face_recognition).
     * Prepare your hardware (camera or webcam).
